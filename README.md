@@ -1,0 +1,1 @@
+This project is a showcase of my CSS skills before delving into Flexbox and responsive design. It demonstrates the use of traditional CSS techniques to create a visually appealing and well-structured web page.
